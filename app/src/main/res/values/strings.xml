@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LocationTrackrApp</string>
+    <string name="allow_location_tracking">Allow Location Tracking</string>
+    <string name="howdy_there">HOWDY THERE!!</string>
+    <string name="start_screen_description_text">This is a Simple App to track \n and display your location.\n That\'s about it!</string>
+    <string name="view_your_locations">VIEW YOUR LOCATIONS</string>
+    <string name="stop_location_tracking">STOP LOCATION TRACKING</string>
+    <string name="google_maps_key">AIzaSyCQgRMojMv6xklQTi7amEWeuhFt1UZG0ww</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid coordinates used</string>
+    <string name="no_address_found">No address found</string>
+    <string name="string_ok">ok</string>
+    <string name="current_location_not_available">Current location is not available</string>
+    <string name="enable_location_provider">Please enable location provider</string>
+    <string name="turn_on_gps">Please turn ON GPS</string>
+
+    <string name="location_unknown">Location unknown</string>
+    <string name="location_updates_label">Location Updates</string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="request_location_updates">Request location updates</string>
+    <string name="remove_location_updates">Remove location updates</string>
+
+    <string name="location_updated">Location Updated: %1$s</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="title_activity_location_listing">LocationListingActivity</string>
+</resources>

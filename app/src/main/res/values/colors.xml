@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="start_screen_button_color">#E3509A</color>
+    <color name="allow_location_tracking_text_color">#FFFFFF</color>
+    <color name="start_screen_background_color_start">#3023AE</color>
+    <color name="start_screen_background_color_end">#7B1B8B</color>
+    <color name="view_your_location_button_color">#50E3C2</color>
+    <color name="stop_your_location_button_color">#000000</color>
+</resources>
